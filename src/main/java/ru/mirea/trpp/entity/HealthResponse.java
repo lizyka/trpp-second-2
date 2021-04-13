@@ -1,4 +1,4 @@
-package sample.text;
+package ru.mirea.trpp.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
